@@ -14,4 +14,4 @@ A couple steps to get you set up and oriented:
 
 5. Click on the week activity you like to check out and explore!
 
-6. Next time you like to revisit the repo, repeat 1. and 2., then type in the terminal `cd astr133` and `git pull`. This ensures that your repo is always up to date and any new material that is added can be synced. 
+6. Next time you like to revisit the repo, repeat 1. and 2., then type in the terminal `cd astr133` and then `git pull`. This ensures that your repo is always up to date and any new material that is added can be synced. 
