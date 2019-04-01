@@ -2,7 +2,7 @@
 
 Welcome to the Spring 2019 ASTR 133 repository. In this repo we will store some class demos for the class and give (some of) you a first taste of coding in a Jupyter notebook environment.
 
-A couple orientation notes:
+A couple steps to get you set up and oriented:
 
 1. As you lokg into  https://jupyter.rcc.uchicago.edu/, you will be situated at your home directory. It should be pretty empty. 
 
