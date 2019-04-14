@@ -10,7 +10,7 @@ A couple steps to get you set up and oriented:
 
 3. Type `pwd` to figure out where you are (i.e. your home directory). Checkout the shared material for the class at `/project2/astr13300` by typing `ls /project2/astr13300`. 
 
-4. We like you to "clone" this repo into your home directory so you can play with it on your own. To do this, make sure you are in your home directory, and type `git clone https://github.com/chihway/astr133.git`. Now close the tab with the terminal, and you will find a folder `astr133` in the original tab.
+4. We like you to "clone" this repo into your home directory so you can play with it on your own. To do this, make sure you are in your home directory, and type `git clone https://github.com/chihway/astr133.git`. Now you can switch back to the original tab and you will find a folder `astr133` there.
 
 5. Click on the week activity you like to check out and explore!
 
