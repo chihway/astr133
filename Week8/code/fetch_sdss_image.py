@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 if python_version >= 3:
     import urllib.request
-    from .setup import setup
+    from setup import setup
 else:
     import cStringIO, urllib
     from setup.setup import code_home_dir    

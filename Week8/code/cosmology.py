@@ -8,7 +8,7 @@ import sys
 python_version = sys.version_info[0]
 
 if python_version >=3: 
-    from .auxiliary import romberg
+    from auxiliary import romberg
 else:
     from auxiliary import romberg
 

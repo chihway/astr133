@@ -3,7 +3,7 @@ import numpy as np
 import scipy.optimize as opt
 from matplotlib.colors import LogNorm
 
-from astroML.datasets import fetch_sdss_spectrum
+# from astroML.datasets import fetch_sdss_spectrum
 from scipy.interpolate import interp1d
 from scipy.integrate import simps
 from PIL import Image
@@ -12,10 +12,10 @@ import sys
 python_version = sys.version_info[0]
 
 if python_version >=3: 
-    from .setup.setup import image_home_dir, sdss_filter_dir
-    from .fetch_sdss_image import fetch_sdss_image
-    from .cosmology import d_l
-    from .calc_kcor import calc_kcor 
+    from setup.setup import image_home_dir, sdss_filter_dir
+    from fetch_sdss_image import fetch_sdss_image
+    from cosmology import d_l
+    from calc_kcor import calc_kcor 
 
 else:
     from setup.setup import image_home_dir, sdss_filter_dir
