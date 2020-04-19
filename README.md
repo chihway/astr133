@@ -4,7 +4,7 @@ Welcome to the Spring 2019 ASTR 133 repository (repo). In this repo we will stor
 
 A couple steps to get you set up and oriented:
 
-1. Direct your browser to https://jupyter.rcc.uchicago.edu/, you will be situated at your home directory. It should be pretty empty. 
+1. Open a new tab, and direct your browser to https://jupyter.rcc.uchicago.edu/ (so you can keep these instructions), you will be situated at your home directory. It should be pretty empty. 
 
 2. Go to the upper right corner, click on "New" and choose "Terminal" in the pulldown menu. A black box will open, this is the terminal where you can operate as in a Linux environment. You can find some basic Linux commands here: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners, though we won't need much of these in the class.
 
