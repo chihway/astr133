@@ -2,7 +2,7 @@
 
 Welcome to the Spring 2019 ASTR 133 repository (repo). In this repo we will store some class demos for the class and give (some of) you a first taste of coding in Python in a Jupyter notebook environment.
 
-Here (https://github.com/chihway/astr133/blob/master/Setting_up_on_midway_and_jupyter.pdf) are instructions on how to get started. 
+[Here](Setting_up_on_midway_and_jupyter.pdf) are instructions on how to get started. 
 
 This year, we have two activities in this class that will be done using this interface: 
 * **Week 3:** we use a web-based interface to solve some stellar sturcture equations and learn to make simple plots of the output files
