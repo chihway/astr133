@@ -1,6 +1,6 @@
 # ASTR 13300 Introduction to Astrophysics
 
-Welcome to the Spring 2021 ASTR 133 repository (repo). In this repo we will store some class demos for the class and give (some of) you a first taste of coding in Python in a Jupyter notebook environment.
+Welcome to the ASTR 133 repository (repo). In this repo we will store some class demos for the class and give (some of) you a first taste of coding in Python in a Jupyter notebook environment.
 
 [Here](Setting_up_on_midway_and_jupyter.pdf) are instructions on how to get started. 
 
