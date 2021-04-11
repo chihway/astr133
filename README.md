@@ -6,4 +6,4 @@ Welcome to the ASTR 133 repository (repo). In this repo we will store some class
 
 We will not go through the other activities in class, though you are welcome to check them out on your own.
 
-We also include a set of simple python tutorials in [Tutorial](https://github.com/chihway/astr133/tree/master/Tutorials) that you can play with.
+We also include a set of simple python tutorials in [Tutorials](https://github.com/chihway/astr133/tree/master/Tutorials) that you can play with.
